@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @EQlibre
 - 👀 I’m interested in desktop and web apps 
 - 🌱 I’m currently learning Python
-- 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me anna.teternik@eqlibre.by
 
 <!---
